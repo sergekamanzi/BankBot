@@ -8,7 +8,6 @@ FastApi= https://github.com/sergekamanzi/apiBANKBOT.git
 
 
 
-Here's a concise and clear `README.md` you can use for your GitHub repository:
 
 ---
 
