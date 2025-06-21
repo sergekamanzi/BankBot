@@ -34,13 +34,6 @@ Custom banking Q\&A dataset containing user inquiries and relevant responses. Da
 * Matplotlib & Seaborn for analysis
 * Sentence Transformers (`all-MiniLM-L6-v2`)
 
-### Evaluation Metrics
-
-* Cosine similarity thresholding
-* BLEU Score
-* F1-Score
-* Top-K Retrieval Accuracy
-
 ### How to Run
 
 ```bash
